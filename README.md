@@ -1,15 +1,18 @@
-# gb-elm-application-cookbook
+  
+# Elm Application Cookbook
 
-Personal notes on elm, in the form of a gitbook
+__A gitbook with recipes for [Elm](http://elm-lang.org/) Applications.__
 
-Merging together existing resources into a format that works better for me.
+Read it online on [gitbook](https://widged.gitbooks.io/gb-elm-application-cookbook/content/).
 
-Part of a multi book series
-- [Elm Platform](https://widged.gitbooks.io/gb-elm-platform/content/)
-- [Elm Language](https://widged.gitbooks.io/gb-elm-language/content/)
-- [Elm Language cookbook](https://widged.gitbooks.io/gb-elm-language-cookbook/content/)
-- [Elm Application Framework](https://widged.gitbooks.io/gb-elm-application-framework/content/)
-- [Elm Application cookbook](https://widged.gitbooks.io/gb-elm-application-cookbook/content/)
+You can also download offline version [here (PDF, ePub, Mobi)](https://www.gitbook.com/book/widged/gb-elm-application-cookbook/details).
 
-[WARNING]. In the current version, it might contain text that had been been copy / pasted from other sources. This is to give me an idea of the structure I should aim for. Any copied text is clearly marked as such and will progressively be replaced by text and examples of my own. It is simply that gitbook expects access to a git repository on top of local files to synchronise any change. 
+## Contributing
 
+Please open issues and send PRs at <https://github.com/widged/gb-elm-application-cookbook>.
+
+---
+
+[Share on Twitter](https://twitter.com/intent/tweet?&text=Elm%20Tutorial&url=http%3A%2F%2Fwww.elm-tutorial.org&via=widged) | [Follow @widged](https://twitter.com/intent/user?screen_name=widged)
+
+© Marielle Lange 2016
